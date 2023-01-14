@@ -2,16 +2,16 @@
 
 ## Personal
 
-Name: Galina Petrova
-Age: 20
-Sign: Libra
-Hometown: Novosibirsk, Russia
+Name: Galina Petrova  
+Age: 20  
+Sign: Libra  
+Hometown: Novosibirsk, Russia  
 
 ## Academic
 
-Major: ECE
-Year: Second
-Other ECE classes: 215 and 241
+Major: ECE  
+Year: Second  
+Other ECE classes: 215 and 241  
 
 ## Practice
 
