@@ -1,13 +1,14 @@
 void setup() {
   // put your setup code here, to run once:
-  pinMode(13, OUTPUT); // 
-  pinMode(12, OUTPUT);
-  pinMode(11, OUTPUT);
+  pinMode(13, OUTPUT); // top left
+  pinMode(12, OUTPUT); // top middle
+  pinMode(11, OUTPUT); // top right
 
-  pinMode(7, OUTPUT);
-  pinMode(6, OUTPUT);
-  pinMode(5, OUTPUT);
-  pinMode(4, OUTPUT);
+  pinMode(7, OUTPUT);  // bottom left
+  pinMode(6, OUTPUT);  // bottom middle
+  pinMode(5, OUTPUT);  // bottom right
+  
+  pinMode(4, OUTPUT);  // middle
 }
 
 void loop() {
