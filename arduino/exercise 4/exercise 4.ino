@@ -14,7 +14,6 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
 
-
   // 9
   digitalWrite(4, LOW);
   digitalWrite(7, HIGH);
